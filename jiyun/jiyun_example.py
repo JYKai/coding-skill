@@ -1,0 +1,3 @@
+import deque
+
+s = deque()
