@@ -45,7 +45,7 @@
 
 |Done| No   | Level | Name                                                         |
 | ---- | ---- | ----- | ------------------------------------------------------------ |
-|| 19   | 1     | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |
+|V| 19   | 1     | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) |
 || 20   | 2     | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) |
 || 21   | 2     | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
 || 22   | 5     | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
