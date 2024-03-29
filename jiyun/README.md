@@ -50,3 +50,13 @@
 |X| 21   | 2     | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
 |X| 22   | 5     | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) |
 |X| 23   | 4     | [길찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) |
+
+
+## Set
+
+|Done| No   | Level | Name                                                         |
+| ---- | ---- | ----- | ------------------------------------------------------------ |
+|| 24   | 1     | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
+|| 25   | 2     | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
+|| 26   | 2     | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
+|| 27   | 3     | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
