@@ -56,7 +56,7 @@
 
 |Done| No   | Level | Name                                                         |
 | ---- | ---- | ----- | ------------------------------------------------------------ |
-|| 24   | 1     | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
-|| 25   | 2     | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
-|| 26   | 2     | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
-|| 27   | 3     | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
+|V| 24   | 1     | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
+|V| 25   | 2     | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
+|V| 26   | 2     | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
+|X| 27   | 3     | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
