@@ -56,5 +56,36 @@
 | 26   | 2     | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
 | 27   | 3     | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
 
+**Graph**
+
+| No   | Level | Name                                                         |
+| ---- | ----- | ------------------------------------------------------------ |
+| 28   | 2     | [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |
+| 29   | 2     | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+| 30   | 3     | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
+| 31   | 5     | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
+| 32   | 2     | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
+
+**Back Tracking**
+
+| No   | Level | Name                                                         |
+| ---- | ----- | ------------------------------------------------------------ |
+| 33   | 1     | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
+| 34   | 1     | [N-퀸](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |
+| 35   | 2     | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |
+| 36   | 5     | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
+| 37   | 5     | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+
+**Sort**
+
+| No   | Level | Name                                                         |
+| ---- | ----- | ------------------------------------------------------------ |
+| 38   | 1     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |
+| 39   | 1     | [정수 내림차수으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) |
+| 40   | 1     | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |
+| 41   | 3     | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |
+| 42   | 2     | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |
+| 43   | 4     | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
+
 </div>
 </details>
