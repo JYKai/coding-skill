@@ -60,3 +60,37 @@
 |V| 25   | 2     | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
 |V| 26   | 2     | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
 |X| 27   | 3     | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) |
+
+
+## Graph
+
+|Done| No   | Level | Name                                                         |
+|----| ---- | ----- | ------------------------------------------------------------ |
+|V| 28   | 2     | [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |
+|X| 29   | 2     | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
+|V| 30   | 3     | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
+|H| 31   | 5     | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) |
+|V| 32   | 2     | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
+
+
+## Back Tracking
+
+|Done| No   | Level | Name                                                         |
+|----| ---- | ----- | ------------------------------------------------------------ |
+|X| 33   | 1     | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
+|X| 34   | 1     | [N-퀸](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |
+|X| 35   | 2     | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |
+|X| 36   | 5     | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) |
+|| 37   | 5     | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) |
+
+
+## Sort
+
+|Done| No   | Level | Name                                                         |
+|----| ---- | ----- | ------------------------------------------------------------ |
+|V| 38   | 1     | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |
+|V| 39   | 1     | [정수 내림차수으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) |
+|V| 40   | 1     | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |
+|X| 41   | 3     | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |
+|V| 42   | 2     | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |
+|X| 43   | 4     | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
