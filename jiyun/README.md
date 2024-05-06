@@ -103,7 +103,7 @@
 |V| 44   | 2     | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |
 |X| 45   | 2     | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
 |V| 46   | 2     | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
-|X| 47   | 3     | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) |
+|V| 47   | 3     | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) |
 |V| 48   | 2     | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) |
 
 ## DP
