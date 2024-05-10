@@ -117,3 +117,13 @@
 || 53   | 5     | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) |
 || 54   | 3     | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) |
 || 55   | 4     | [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) |
+
+
+## Greedy
+
+|Done| No   | Level | Name                                                         |
+|----| ---- | ----- | ------------------------------------------------------------ |
+|| 56   | 1     | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
+|| 57   | 1     | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) |
+|| 58   | 2     | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) |
+|| 59   | 2     | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |
