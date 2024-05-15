@@ -114,7 +114,7 @@
 |V| 50   | 1     | [2xn타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) |
 |V| 51   | 2     | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
 |V| 52   | 2     | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |
-|| 53   | 5     | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) |
+|X| 53   | 5     | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) |
 || 54   | 3     | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) |
 || 55   | 4     | [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) |
 
