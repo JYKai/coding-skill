@@ -24,7 +24,7 @@
 | V    | 9    | 2     | [크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061) |
 | X    | 10   | 5     | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) |
 | V    | 11   | 2     | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |
-| X    | 12   | 2     | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
+| V    | 12   | 2     | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
 
 
 
